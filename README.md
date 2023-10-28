@@ -27,7 +27,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://github.com/seanmaldonadooo/ticket-lifecycle/assets/149026184/068a5dfe-c40e-41e6-b9a0-5b7a8f9aa88f" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Open a ticket as Karen. Set Help topic to business critical outage. Issue summary: entire mobile online banking is down. Textbox: Customers are reporting they are getting a 404 error when browsing to online banking.
+Open a ticket as Karen. (Use http://localhost/osTicket/index.php) Set Help topic to business critical outage. Issue summary: entire mobile online banking is down. Textbox: Customers are reporting they are getting a 404 error when browsing to online banking.
 </p>
 <br />
 
