@@ -1,4 +1,3 @@
-<p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
@@ -23,6 +22,46 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Resolution
 
 <h2>Lifecycle Stages</h2>
+
+<p>
+<img src="https://github.com/seanmaldonadooo/ticket-lifecycle/assets/149026184/068a5dfe-c40e-41e6-b9a0-5b7a8f9aa88f" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Open a ticket as Karen. Set Help topic to business critical outage. Issue summary: entire mobile online banking is down. Textbox: Customers are reporting they are getting a 404 error when browsing to online banking.
+</p>
+<br />
+
+<p>
+<img src="https://github.com/seanmaldonadooo/ticket-lifecycle/assets/149026184/08c65c7d-0a74-48ed-94d4-4df8456f64b8" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Open a ticket as Ken. Set Help topic Entire Account Dept Adobe Reader Not working. Issue summary: Entire Account Dept Adobe Reader Not working. Textbox: Ever since the upgrade last night, nobody in accounting has been able to use adobe reader.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
