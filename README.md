@@ -40,10 +40,10 @@ Open a ticket as Ken. Set Help topic Entire Account Dept Adobe Reader Not workin
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/seanmaldonadooo/ticket-lifecycle/assets/149026184/d779149d-a2e5-41f4-a3b1-b80b250c4e83" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Open a ticket as Karen. Set Help topic to General Inquiry. Issue summary: When are we getting a hardware refresh. Textbox: Most of my dept is having issues with their current tablets, we need this ASAP. Please provide info.
 </p>
 <br />
 
